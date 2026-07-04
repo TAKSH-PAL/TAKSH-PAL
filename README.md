@@ -1,64 +1,24 @@
-<h1 align="center">Hi there, I'm Taksh Pal! 👋</h1>
+# About Me:
 
-<h3 align="center">Software Engineering Student at DTU | ML & Full-Stack Developer</h3>
+Hey! I'm Taksh Pal
+Software Engineering student at Delhi Technological University (DTU) specialized in Machine Learning and full-stack development. I design and implement intelligent systems, from developing Generative AI applications and RAG architectures to building mobile-first quick-commerce PWAs. My passion lies in solving complex Data Structures & Algorithms problems using C++, optimizing predictive models, and contributing to impactful AI projects that push the boundaries of sports intelligence and ed-tech.
 
-<p align="center">
-  I am a software engineer passionate about building intelligent systems, optimizing algorithms, and developing scalable web applications. My focus lies at the intersection of Machine Learning, AI, and full-stack development, with a deep interest in RAG systems and competitive programming.
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/taksh_xox/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taksh-pal/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/doffydonut/)
+
+# 💻 Tech Stack:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+# 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TAKSH-PAL&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white&icon_color=white" alt="Taksh's GitHub stats" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/taksh-pal/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/doffydonut/">LeetCode</a> •
-  <a href="https://www.instagram.com/taksh_xox/">Instagram</a>
-</p>
+### Dev Quote
 
----
-
-### 👨‍💻 About Me
-
-* 🎓 **Education:** Pursuing a B.Tech in Software Engineering at **Delhi Technological University (DTU)** (2024–2028).
-* 💻 **What I'm currently working on:** Exploring RAG systems, building mobile-first PWAs, and developing interactive AI platforms.
-* 🏆 **Recent Achievement:** Secured 1st place among 700+ participants in a National AI Hackathon (Jan 2026).
-* 🌱 **Always learning:** Constantly grinding Data Structures and Algorithms in **C++**.
-* 🤝 **Community:** Active in social impact—led digital literacy drives for the NSSS Foundation and provided career counseling for high school students.
-
----
-
-### 🚀 Experience & Featured Projects
-
-* **Machine Learning Intern @ Firstcabs Pvt. Ltd.** (Sep 2025 - Dec 2025)
-  * Restructured predictive modeling architecture by migrating arithmetic models to XGBoost to improve efficiency and accuracy.
-* **Campus-Delivery** 
-  * Built a mobile-first quick-commerce Progressive Web App (PWA) tailored for university environments using Next.js and Tailwind CSS.
-* **InsightX** 
-  * Architected an interactive AI sports intelligence platform focused on structured video analysis for cricket matches.
-* **EduBridge AI**
-  * Developed an AI-driven educational solution designed to bridge learning gaps, conceptualized during competitive hackathons.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:** 
-* C++ (Primary for DSA & CP)
-* Python
-* JavaScript/TypeScript
-
-**Frontend & Full-Stack:** 
-* Next.js
-* Tailwind CSS
-* HTML/CSS
-
-**Machine Learning & AI:** 
-* Computer Vision
-* Generative AI & RAG architectures
-* XGBoost & Predictive Modeling
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAKSH-PAL&show_icons=true&theme=radium" alt="Taksh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAKSH-PAL&theme=radium" alt="Taksh's GitHub streak" width="48%" />
-</p>
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+> 
+> <div align="right">- Edsger W. Dijkstra</div>
